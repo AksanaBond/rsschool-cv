@@ -24,3 +24,26 @@ I hold a Bachelor's degree in Pharmacy. Currently, I am seeking to explore a new
 - passion for learning
 
 ---
+
+### Skills and Proficiency:
+
+- HTML5, CSS3
+- JavaScript
+- VS Code
+- Git/GitHub
+
+---
+
+### Code example:
+
+```
+let sum = 0;
+
+for (let i = 1; i <= 100; ++i) {
+  sum = i + sum
+}
+
+console.log(sum)
+```
+
+---
