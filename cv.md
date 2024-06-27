@@ -47,3 +47,19 @@ console.log(sum)
 ```
 
 ---
+
+### Education
+
+- **Belarusian State Medical University**
+  - Pharmacy
+- **Courcse**
+  - [Udemy JavaScript](https://www.udemy.com/course/javascript-ru)
+  - [RS School Course «JavaScript/Front-end» (in progress)](https://rs.school/)
+
+---
+
+### Languages
+
+- **Russian** native
+- **English** B1 (B2 in process)
+- **Polish** B1 certificate from Państwowa Komisja do spraw Poświadczania Znajomości Języka Polskiego jako Obcego
