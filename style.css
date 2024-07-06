@@ -26,21 +26,27 @@ body {
     line-height: 1.5;
     color:rgb(48, 46, 46)
 }
+.container {
+    width: 1024px;
+    margin: 0 auto;
+}
 .header {
     background-color: rgb(74, 69, 69);
 }
-.main {
-    border: 1px solid red;
-}
 .footer {
-    border: 1px solid red;
+    background-color:rgb(74, 69, 69);
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
 }
 .cv-container {
     display: flex;
     justify-content: center;
 }
 .left-column {
-    border: 1px solid red;
+    border-right: 1px solid rgb(74, 69, 69);
     flex: 0.35;
     padding: 15px;
     
@@ -56,7 +62,8 @@ body {
     list-style:none;
     display: flex;
     justify-content: space-between;
-    align-items: center
+    align-items: center;
+    padding-right: 40px;
 
 }
 .nav-link {
@@ -64,11 +71,12 @@ body {
     color: white;
 }
 #photo {
-    border-radius: 50%;
+    
     width: 250px;
     height: 30%;
     border: 2px solid rgb(74, 69, 69);
     margin: 0 auto;
+    display: block;
 
 }
 h1 {
@@ -90,10 +98,24 @@ h1 {
     background-color:rgb(74, 69, 69);
     color: white;
 }
+#code {
+    border: 1px solid rgb(74, 69, 69) ;
+}
 .cont-link {
     text-decoration: none;
     color:rgb(48, 46, 46)
 }
+.course-link {
+    text-decoration: none;
+    color:rgb(48, 46, 46)
+}
+.git-link {
+    text-decoration: none;
+    color: white;
+}
 a:hover {
     text-decoration: underline;
+}
+.rrs-img {
+    width: 50px;
 }
